@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddb4992e-1668-44a9-8bc1-b5d4c66d3e7d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TUHoNM6cFPhJGwmONsMxOiphyy" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProductshopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="productshop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.softuni.productshop.ProductshopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddb4992e-1668-44a9-8bc1-b5d4c66d3e7d" name="Default Changelist" comment="" />
+      <created>1573507927218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573507927218</updated>
+      <workItem from="1573507928862" duration="705000" />
+      <workItem from="1573561515324" duration="5100000" />
+      <workItem from="1573583090633" duration="613000" />
+      <workItem from="1573585596201" duration="225000" />
+      <workItem from="1573647490091" duration="3584000" />
+      <workItem from="1573818577525" duration="1990000" />
+      <workItem from="1573821829993" duration="84000" />
+      <workItem from="1573822067237" duration="102000" />
+      <workItem from="1573835071576" duration="187000" />
+      <workItem from="1573837501146" duration="21000" />
+      <workItem from="1573842974300" duration="1813000" />
+      <workItem from="1573915524110" duration="654000" />
+      <workItem from="1574083502671" duration="1071000" />
+      <workItem from="1574086868885" duration="738000" />
+      <workItem from="1574164741544" duration="7142000" />
+      <workItem from="1574177096232" duration="1746000" />
+      <workItem from="1574186482331" duration="10000" />
+      <workItem from="1574337613367" duration="1025000" />
+      <workItem from="1574339589216" duration="5907000" />
+      <workItem from="1574408279512" duration="3966000" />
+      <workItem from="1574431642082" duration="3495000" />
+      <workItem from="1574596379870" duration="768000" />
+      <workItem from="1574623172415" duration="7766000" />
+      <workItem from="1574682056404" duration="398000" />
+      <workItem from="1574693745618" duration="1217000" />
+      <workItem from="1575367832488" duration="77000" />
+      <workItem from="1575397878321" duration="1102000" />
+      <workItem from="1575402489149" duration="477000" />
+      <workItem from="1575449116502" duration="70000" />
+      <workItem from="1575470061535" duration="11000" />
+      <workItem from="1575550836792" duration="3050000" />
+      <workItem from="1575625293384" duration="3165000" />
+      <workItem from="1575980202110" duration="2331000" />
+      <workItem from="1575985628275" duration="393000" />
+      <workItem from="1575986090522" duration="515000" />
+      <workItem from="1575989759032" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

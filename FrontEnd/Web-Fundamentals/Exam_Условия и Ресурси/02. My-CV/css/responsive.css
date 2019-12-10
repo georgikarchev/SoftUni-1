@@ -1,0 +1,92 @@
+@media all and (max-width: 768px) {
+  #main{
+      flex-direction: column;
+      padding-left: 2%;
+      padding-right: 2%;
+  }
+
+    #main > aside{
+        width: 100%;
+        margin: 0;
+        margin-top: 3%
+
+    }
+    #main > aside > img{
+        width: 95%;
+        margin-top: 25px;
+        margin-left: 15px;
+    }
+    .progress-bar{
+        color: #009688;
+    }
+    main{
+        width: 100%;
+    }
+    #work{
+        padding-left: 40px;
+        padding-right: 40px;
+
+    }
+    .uni-img-container{
+        float: none;
+        width: 100%;
+        margin-right: 0;
+        padding: 0;
+    }
+    .school div img{
+        width: 60%;
+    }
+    .school div{
+        text-align: center;
+    }
+    #education > article:nth-child(2) > div > p, #education > article:nth-child(3) > div > p{
+        text-align: left;
+    }
+
+    footer{
+        margin-top: 2%;
+    }
+
+}
+
+@media all and (min-width: 769px) and (max-width: 1028px){
+    #main{
+        flex-direction: column;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    #main > aside{
+        width: 100%;
+        margin: 0;
+        margin-top: 3%
+
+    }
+    #main > aside > img{
+        width:  300px;
+        height: 300px;
+        border-radius: 50%;
+        margin-left: 20%;
+        margin-top: 3%;
+
+    }
+    #personal-info{
+       display: inline-block;
+    }
+    .progress-bar{
+        color: #009688;
+    }
+
+    main{
+        width: 100%;
+    }
+
+    #work{
+     padding: 8%;
+    }
+
+    footer{
+        margin-top: 3%;
+    }
+
+
+}

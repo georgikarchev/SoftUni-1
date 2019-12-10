@@ -1,0 +1,51 @@
+html{
+    font: 16px/1.5 Helvetica, sans-serif;
+}
+
+body{
+    background: whitesmoke;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+table{
+    width: 100%;
+    table-layout: fixed;
+    margin-bottom: 1.5rem;
+    border:1px solid #CCC;
+    border-spacing: 0;
+    border-collapse: separate;
+}
+
+table td, table th{
+    border: 1px solid darkgrey;
+    padding: 0.3rem 0.5rem;
+}
+
+table thead th{
+    text-align: left;
+    background: cadetblue ;
+}
+
+table tr:nth-child(odd) td{
+    background: darkseagreen;
+}
+
+table tr:hover td {
+    background: limegreen;
+    color: #FFF;
+    border-color:transparent ;
+}
+
+blockquote {
+    border-left: 4px solid rgb(221,221,221);
+    font-style: italic;
+}
+
+blockquote .author {
+    text-align: right;
+}
+
+hr{
+    margin: 2rem 0;
+}

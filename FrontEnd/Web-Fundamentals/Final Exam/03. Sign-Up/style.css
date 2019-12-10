@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+    background: whitesmoke;
+}
+main{
+    display: flex;
+    margin: auto;
+    height: 40%;
+    font-family: "Open Sans", sans-serif;
+    width: 60%;
+    margin-top: 90px;
+}
+.left-section,.right-section{
+    width: 50%;
+    height: 400px;
+    box-shadow: 2px 2px 5px grey;
+
+
+}
+
+.left-section{
+    background: linear-gradient(rgba(25, 31, 30, 0.7),rgba(25, 31, 30, 0.7)),
+    url("images/cover.jpg");
+    background-size: cover;
+    color: white;
+    background-position: center;
+}
+
+.left-section h4{
+    margin-left: 20px;
+}
+
+.left-section div{
+    text-align: center;
+    padding-top: 100px ;
+    font-size: 24px;
+    font-weight: 100;
+
+}
+
+body > main > section.left-section > div:nth-child(3){
+    padding-top: 10px;
+}
+
+.icons{
+    text-align: center;
+    margin-top: 25%;
+}
+
+.right-section div p{
+    color: lightgrey;
+}
+
+.right-section div input{
+    outline: none;
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid lightgrey;
+    width: 80%;
+    padding-left: 10px;
+    height: 20px;
+}
+
+.right-section div {
+padding-left: 50px;
+}
+
+.right-section div button{
+    margin-top: 30px;
+    background: black;
+    color: white;
+    width: 40%;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
+
+.right-section{
+    background: white;
+
+}
+
+body > main > section.right-section > div.buttons > button:nth-child(2){
+    background: white;
+    color: grey;
+    text-decoration: underline;
+}
+

@@ -1,0 +1,32 @@
+@import url("https://use.fontawesome.com/releases/v5.3.1/css/all.css");
+
+.fa-star, .fa-envelope{
+    padding-right: 5px;
+}
+
+p:first-child{
+    background-color: orange;
+}
+
+p:last-child{
+    background-color: green;
+}
+
+body{
+    width: 120px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.fa-star, .fa-envelope{
+    padding-right: 5px;
+}
+
+p:hover{
+    background: red;
+}
+
+p:active {
+    color: #000;
+    transform: rotate(360deg);
+}

@@ -1,0 +1,101 @@
+body{
+    font-family: "Helvetica", sans-serif;
+}
+
+nav{
+    display: flex;
+    padding-right: 10%;
+    padding-left: 10%;
+    text-decoration: none;
+}
+nav ul li{
+    display: inline-block;
+    padding-right: 15px;
+}
+
+nav ul span{
+    padding-right: 100px;
+}
+nav ul{
+    margin-left: 100px;
+    padding-left: 300px;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+header{
+    background: url("images/slide2.jpg");
+    background-size: cover;
+    height: 480px;
+    margin-top: 0;
+}
+
+header section{
+
+
+}
+body > header > section{
+    background: linear-gradient(rgba(25, 31, 30, 0.7),rgba(25, 31, 30, 0.7));
+    width: 24%;
+    height: 25%;
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 173px;;
+}
+body > header > section > button{
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 15%;
+    color: white;
+    background: cornflowerblue;
+    border-style: none;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+body > header >section > p {
+    padding-top: 10px;
+    color: white;
+    width: 300px;
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 10px
+}
+
+
+.firstSection h3{
+    text-align: center;
+    word-spacing: 4px;
+    font-size: 30px;
+    font-weight: 200;
+
+}
+body > main > section.firstSection > p{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+body > main > section.firstSection > button{
+    margin-left: 590px;
+    margin-top: 20px;
+    padding: 15px 40px;
+    border-radius: 20px;
+    background: black;
+    color: white;
+    border: none
+}
+
+.secondSection{
+    display: flex;
+    max-width: 100%;
+}
+
+body > main > section.secondSection > section > img{
+    width: 260px;
+}
